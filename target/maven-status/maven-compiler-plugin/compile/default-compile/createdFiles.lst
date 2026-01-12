@@ -1,0 +1,5 @@
+com/weiyi/weather/WeatherApp.class
+com/weiyi/weather/WeatherResponseParser.class
+com/weiyi/weather/WeatherForecastApplication.class
+com/weiyi/weather/model/WeatherForecast.class
+com/weiyi/weather/WeatherApi.class
